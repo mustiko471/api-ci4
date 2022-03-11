@@ -5,3 +5,4 @@ Istilah dalam Git :
 - Commit
 - Branch
 - Hash
+- Merge
