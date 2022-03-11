@@ -1,3 +1,4 @@
 Istilah dalam Git :
 - Push
 - Pull
+- Checkout (untuk cek histori commit)
