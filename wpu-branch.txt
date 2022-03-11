@@ -3,3 +3,6 @@ Istilah dalam Git :
 - Pull
 - Checkout (untuk cek histori commit)
 - Commit
+- Branch
+- Hash
+- Merge
