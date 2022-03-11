@@ -1,0 +1,8 @@
+Istilah dalam GIT
+- commit
+- branch
+- merge
+- push
+- pull
+- hash
+- clone
