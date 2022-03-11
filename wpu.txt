@@ -6,3 +6,4 @@ Istilah dalam GIT
 - pull
 - hash
 - clone
+- version controller system
